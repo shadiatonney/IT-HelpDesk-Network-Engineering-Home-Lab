@@ -1,9 +1,6 @@
 # IT-HelpDesk-Network-Engineering-Home-Lab
 A hands-on IT Help Desk and Network Engineering home lab portfolio demonstrating practical skills in Windows Server, Active Directory, DNS, DHCP, Group Policy, networking, virtualization, and troubleshooting.
 
-
-# IT Help Desk & Network Engineering Home Lab Portfolio
-
 Welcome to my IT Help Desk and Network Engineering Home Lab Portfolio.
 
 This repository showcases hands-on projects and lab environments designed to develop and demonstrate practical skills in IT support, systems administration, networking, virtualization, and cybersecurity.
