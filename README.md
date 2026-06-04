@@ -16,7 +16,7 @@ My goal is to continuously develop hands-on technical skills and apply them in p
 
 ## Skills Demonstrated
 
-01-Active-Directory-User-Management
+*Active-Directory-User-Management
 * Windows Server Management
 * Group Policy Configuration
 * DNS and DHCP Services
