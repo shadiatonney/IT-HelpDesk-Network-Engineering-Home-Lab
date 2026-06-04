@@ -15,7 +15,8 @@ My goal is to continuously develop hands-on technical skills and apply them in p
 
 ## Skills Demonstrated
 
-* Active Directory Administration
+1. [View Active Directory Lab](./01-Active-Directory-User-Management)
+2. [View Group Policy Lab](./02-Group-Policy-Management)
 * Windows Server Management
 * Group Policy Configuration
 * DNS and DHCP Services
