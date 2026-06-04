@@ -13,14 +13,14 @@ The projects included in this portfolio simulate real-world enterprise environme
 1. [Active Directory Lab](./01-Active-Directory-User-Management)
 2. [Group Policy Lab](./02-Group-Policy-Management)
 3. [Windows Server Management](./3-windows-serve-Management)
-4. (DNS and DHCP Services)
-* Network Troubleshooting
-* File Server Administration
-* Virtualization Technologies
-* Enterprise Networking
-* Security and Access Management
-* Technical Documentation
-* IT Support and Incident Resolution
+4. [DNS and DHCP Services](./04-DNS-DHCP-Configuration)
+5. [Network Troubleshooting]
+6. File Server Administration
+7. Virtualization Technologies
+8. Enterprise Networking
+9. Security and Access Management
+10. Technical Documentation
+11. IT Support and Incident Resolution
 
 ## Featured Lab Projects
 
