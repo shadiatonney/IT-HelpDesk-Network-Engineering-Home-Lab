@@ -17,9 +17,8 @@ My goal is to continuously develop hands-on technical skills and apply them in p
 
 1. [Active Directory Lab](./01-Active-Directory-User-Management)
 2. [Group Policy Lab](./02-Group-Policy-Management)
-* Windows Server Management
-* Group Policy Configuration
-* DNS and DHCP Services
+3. [Windows Server Management](./3-windows-serve-Management)
+4. (DNS and DHCP Services)
 * Network Troubleshooting
 * File Server Administration
 * Virtualization Technologies
